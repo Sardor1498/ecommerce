@@ -12,6 +12,7 @@ const App = () => {
   return (
     <Title>
      SALOM
+     Qalesan
     </Title>
   );
 }
